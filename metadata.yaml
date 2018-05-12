@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33092
     wikipedia: http://de.wikipedia.org/wiki/Oskar_H%C3%B6cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28035#El-v-n--haudattuTosi-kertomus-vuodelta-1857--Ps.-85-10-
 gutenberg_issued: '2009-02-09'
 gutenberg_type: Text
 identifiers:
